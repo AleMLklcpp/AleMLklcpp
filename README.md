@@ -1,2 +1,2 @@
-kali linux
-c++
+Linux
+C++
